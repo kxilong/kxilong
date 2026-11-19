@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kxilong;Full-stack+dev+%7C+NestJS+%2B+Vue;I+build+WeChat+mini+games+%F0%9F%8E%AE;Stay+hungry%2C+stay+foolish" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kxilong&style=for-the-badge&color=7F00FF&label=VISITORS" />
+</p>
+
 ### 🛠 Tech Stack
 
 <p align="center">
