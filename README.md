@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kxilong&style=flat-square&color=7F00FF&label=visitors" />
   <a href="https://blog.i-xiao.space/"><img src="https://img.shields.io/badge/Blog-i--xiao.space-00D4FF?style=flat-square" /></a>
 </p>
 
@@ -16,22 +15,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,vue,nestjs,nodejs,less,css,html,vite,docker,git,github&theme=dark" />
 </p>
-
-### 🎮 Games
-
-<table>
-<tr>
-<td width="55%">
-<a href="https://github.com/kxilong/ZhuaYiBa"><img src="https://raw.githubusercontent.com/kxilong/ZhuaYiBa/main/build-templates/wechatgame/share.jpg" width="100%" /></a>
-</td>
-<td>
-<b>鲜果消一消大冒险</b><br/>
-微信小游戏 · 抓三消 + 2D 物理盆<br/>
-Cocos Creator 3.8 · TypeScript<br/><br/>
-<a href="https://github.com/kxilong/ZhuaYiBa">🔗 源码</a>
-</td>
-</tr>
-</table>
 
 ### 📊 Stats
 
