@@ -3,14 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,nestjs,nodejs,vite,less,docker,git&perline=9" />
-</p>
-
-<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kxilong&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=8A5CF6&icon_color=8A5CF6&text_color=7D8590&ring_color=8A5CF6" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxilong&layout=compact&theme=transparent&hide_border=true&title_color=8A5CF6&text_color=7D8590&card_width=320" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kxilong&style=flat-square&color=8A5CF6&label=visitors" />
+  <img src="https://img.shields.io/github/stars/kxilong?style=flat-square&color=8A5CF6&label=stars&logo=github" />
 </p>
